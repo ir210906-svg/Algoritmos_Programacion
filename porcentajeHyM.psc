@@ -1,4 +1,5 @@
 Algoritmo porcentajeHyM
+	//ignacio rivas
 	Definir cantidad_hombres, cantidad_mujeres, total_estudiantes Como Entero
 	Definir porcentaje_hombres, porcentaje_mujeres Como Real
 	ESCRIBIR "Ingrese la cantidad de hombres en el curso:"

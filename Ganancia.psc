@@ -1,3 +1,4 @@
+//ignacio Rivas
 Algoritmo Ganancia
 	Definir capital_inicial, tasa_interes, ganancia_mensual, capital_final Como Real
 	ESCRIBIR "capital a invertir:"
